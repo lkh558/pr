@@ -3,4 +3,6 @@
 ```bash
 git add .
 git commit -m "완료 메세지"
+git status
+git log
 ```
